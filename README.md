@@ -31,9 +31,13 @@ Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, etc
 To predict the price of a smartphone based on the features provided in the dataset. This involves:
 
 Exploratory Data Analysis (EDA): Understanding the dataset, removing Null values, identifying patterns, and preprocessing the data.
+
 Feature Engineering: Transforming and encoding features(Label Encoder) to be used in the model.
+
 Model Building: Training various machine learning models like Random Forest, KNN, Naive Bayes, Logistic Regression, SVM to predict smartphone prices.
+
 Visualization: Creating visualizations using Matplotlib/Seaborn/Plotly to understand model performance and feature importance.
+
 Evaluation: Assessing the model performance using metrics such as Mean Absolute Error (MAE) and R² Score, MAPE.
 
 # Results:
