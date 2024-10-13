@@ -1,4 +1,4 @@
-# Smartphones-Price-Detection-on-Flipkart
+# Smartphone-Price-Detection-on-Flipkart
 
 
 # Overview
